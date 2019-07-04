@@ -1,5 +1,5 @@
 # My First Website version 3.0 Wed Jul 3 14:58
-![src="images/elephant.jpg"]()
+![](images/elephant.jpg)
 #### By **Peter Kingori and Robert Muthuri**
 ## Description
 This is a sample website of the first webpage coding class.
