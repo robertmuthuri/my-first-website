@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: avenir next condensed;
+}
+
+ul {
+  line-height: 40px;
+  font-family: monospace;
+  color: #ffa8a8;
+  font-size: 34;
+}
+body{
+  background-color: #890000;
+}
+strong{
+  font-style: italic;
+  font-weight:normal;
+
+}
+em{
+  font-style: normal;
+  font-weight: bold;
+}
