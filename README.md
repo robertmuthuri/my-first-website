@@ -8,7 +8,7 @@ This is a sample website of the first webpage coding class.
 * There are no set up requirements.
 
 ## Support and contact details
-If you don't like this work, holla at @richardkingori and @robertmuthuri
+If you encounter any problems, please reach us @richardkingori and @robertmuthuri
 
 ### License
 This work is licensed by CC Share Alike.
